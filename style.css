@@ -62,3 +62,7 @@ body {
     display: none;
     margin: 30px 0 0;
   }
+
+  .faq-active .faq-text {
+    display: block;
+  }
