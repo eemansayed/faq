@@ -83,6 +83,10 @@ body {
     width: 30px;
   }
 
+.faq-toggle:focus {
+   outline: 0;
+}
+
   .faq-toggle .fa-times {
     display: none;
   }
