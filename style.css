@@ -98,3 +98,7 @@ body {
 .faq.active .faq-toggle .fa-chevron-down {
     display: none;
   }
+
+  .faq.active .faq-toggle {
+    background-color: #9fa4a8;
+  }
