@@ -27,4 +27,5 @@ body {
     padding: 30px;
     position: relative;
     overflow: hidden;
+    transition: 0.3 ease;
   }
